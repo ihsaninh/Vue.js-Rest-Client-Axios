@@ -1,0 +1,7 @@
+{
+    "articles": [
+      { "id": 1, "title": "Artikel 1", "content": "Ini isi artikel kesatu." },
+      { "id": 2, "title": "Artikel 2", "content": "Ini isi artikel kedua." },
+      { "id": 3, "title": "Bogor Hujan", "content": "Kantanya di Bogor hujan deras." }
+    ]
+  }
